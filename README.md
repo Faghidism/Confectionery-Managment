@@ -1,4 +1,7 @@
 #  Confectionery Management System
+
+![Image](https://github.com/user-attachments/assets/d5b9d41e-1d9c-4792-b2d6-e83d8f2eeeb8)
+
 ## JAVA
 ## Project Description
 This project is a management software for a confectionery shop, including the following components:
